@@ -52,7 +52,7 @@ project_root/
 ├── pj1_gr_report.pdf
 ├── pj1_gr5_presentation_slide.pdf
 ├── pj1_gr5_presentation_vdo.mp4
-└── material/
+└── materials/
     ├── experiment.ipynb
     ├── models/
     │   ├── LR_pipe.joblib
@@ -125,9 +125,9 @@ Key error pattern:
 Full comparison tables are available in:
 
 ```
-material/tables/results_df.xlsx
-material/tables/macro_df.xlsx
-material/tables/per_class_df.xlsx
+materials/tables/results_df.xlsx
+materials/tables/macro_df.xlsx
+materials/tables/per_class_df.xlsx
 ```
 
 ---
