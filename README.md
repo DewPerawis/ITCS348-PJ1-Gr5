@@ -6,10 +6,10 @@ Semester 2/2025 - Mahidol University
 This project implements and compares multiple approaches for **3-class medical severity classification** (low / medium / high) from patient–doctor conversation text.
 
 The full academic report (6–10 pages requirement) is available here:
-📄 **Report (PDF)**: 
+📄 **Report (PDF)**: [[Click here]](./pj1_gr_report.pdf)
 
 The presentation slide is available here:
-📊 **Slide (PDF)**: 
+📊 **Slide (PDF)**: [[Click here]](./pj1_gr5_presentation_slide.pdf)
 
 If you do not want to download the video file, you can watch it online here:
 🎥 **Presentation VDO (Online link)**:
