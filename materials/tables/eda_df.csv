@@ -1,0 +1,4 @@
+class,num_docs,vocab_size,TTR
+high severity,331,4852,0.10566662311076266
+low severity,747,6143,0.07272232218960129
+medium severity,1245,8385,0.05424481002995271
