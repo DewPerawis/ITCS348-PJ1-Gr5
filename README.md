@@ -49,7 +49,7 @@ Because the dataset is imbalanced (medium = majority, high = minority), evaluati
 
 ```
 project_root/
-├── pj1_gr_report.pdf
+├── pj1_gr5_report.pdf
 ├── pj1_gr5_presentation_slide.pdf
 ├── pj1_gr5_presentation_vdo.mp4
 └── materials/
