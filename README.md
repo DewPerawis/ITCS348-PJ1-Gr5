@@ -13,7 +13,8 @@ The presentation slide is available here:
 
 If you do not want to download the video file, you can watch it online here:
 🎥 **Presentation VDO (Online link)**:
-[[VDO Presentation]](https://www.canva.com/design/DAHClseu_s8/BXekE9LLbi9u__Ei4THMlQ/watch?utm_content=DAHClseu_s8&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h6b3cc55c47)
+* [[VDO Presentation (Canva)]](https://www.canva.com/design/DAHClseu_s8/BXekE9LLbi9u__Ei4THMlQ/watch?utm_content=DAHClseu_s8&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h6b3cc55c47)
+* [[VDO Presentation (Youtube)]]([https://www.canva.com/design/DAHClseu_s8/BXekE9LLbi9u__Ei4THMlQ/watch?utm_content=DAHClseu_s8&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h6b3cc55c47](https://youtu.be/uE4-D0dHoHY))
 
 ---
 
