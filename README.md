@@ -59,7 +59,6 @@ project_root/
     │   ├── SVM_pipe.joblib
     │   ├── NB_pipe.joblib
     │   ├── BERT/
-    │   │   ├── model.safetensors
     │   │   ├── config.json
     │   │   ├── tokenizer.json
     │   │   └── tokenizer_config.json
